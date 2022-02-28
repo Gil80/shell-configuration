@@ -1,6 +1,8 @@
 # shell-configuration
 my shell configuration
 
+Guide - https://medium.com/@hjgraca/style-your-windows-terminal-and-wsl2-like-a-pro-9a2e1ad4c9d0
+
 Theme - https://github.com/romkatv/powerlevel10k
 
 Windows terminal theme - https://windowsterminalthemes.dev/
