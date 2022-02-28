@@ -20,3 +20,7 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=244"
 ZSH Theme
 ---------
 ZSH_THEME="powerlevel10k/powerlevel10k"
+
+
+Multiple Git accounts:
+https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/
